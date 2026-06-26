@@ -9,6 +9,7 @@ This is a planning document for the time being. Acknowledgments to Andy Bell for
   - Standard.site integration
   - Short posts also get uploaded to Bluesky?
 - Uses
+- Now
 - About
   - Guestbook
 - Colophon
